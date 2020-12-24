@@ -4,9 +4,6 @@
 
 [![Linkedin: judex](https://img.shields.io/badge/-Onyekaba_Nzubechukwu_Jude-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nzubechukwu-onyekaba/)](https://www.linkedin.com/in/nzubechukwu-onyekaba/)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
 **What makes me tick you ask? 🤗:**
 ```class Human:
     def __init__(self, pronouns, code, current, email):
@@ -39,7 +36,4 @@ Output:
     - 🤔 I’m looking for help with learning Big Data Tech Stacks
     - 💬 Ask me about anything!.
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
