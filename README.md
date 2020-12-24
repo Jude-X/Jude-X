@@ -1,4 +1,5 @@
-<h2> Hi, I'm JudeX, I am a Python Full Stack and Big Data Engineering Enthusiat. 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm JudeX 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><\h2>
+<h3> I am a Python Full Stack and Big Data Engineering Enthusiast. </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Junior Data Analyst at <a href="https://flutterwave.com">Flutterwave</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><
 </em></p>
