@@ -1,10 +1,10 @@
-<h2> Hi, I'm JudeX 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><\h2>
-<h3> I am a Python Full Stack and Big Data Engineering Enthusiast. </h2>
+<h2> Hi, I'm JudeX 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <\h2>
+<h3> I am a Python Full Stack and Big Data Engineering Enthusiast. </h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Junior Data Analyst at <a href="https://flutterwave.com">Flutterwave</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-judex-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nzubechukwu-onyekaba/)](https://www.linkedin.com/in/nzubechukwu-onyekaba/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Onyekaba-Nzubechukwu-Jude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nzubechukwu-onyekaba/)](https://www.linkedin.com/in/nzubechukwu-onyekaba/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
