@@ -5,7 +5,8 @@
 [![Linkedin: judex](https://img.shields.io/badge/-Onyekaba_Nzubechukwu_Jude-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nzubechukwu-onyekaba/)](https://www.linkedin.com/in/nzubechukwu-onyekaba/)
 
 **What makes me tick you ask? 🤗:**
-```class Human:
+```
+class Human:
     def __init__(self, pronouns, code, current, email):
         self.pronouns = pronouns
         self.code = code
