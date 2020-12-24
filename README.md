@@ -1,6 +1,6 @@
 ### Hi, I'm JudeX  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 👋 - Python Full Stack and Big Data Engineering Enthusiast.
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Junior Data Analyst at <a href="https://flutterwave.com">Flutterwave</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><
+<p><em>Currently a Junior Data Analyst at <a href="https://flutterwave.com">Flutterwave</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><
 </em></p>
 
 [![Linkedin: judex](https://img.shields.io/badge/-Onyekaba_Nzubechukwu_Jude-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nzubechukwu-onyekaba/)](https://www.linkedin.com/in/nzubechukwu-onyekaba/)
