@@ -1,6 +1,6 @@
 ## Hi, I'm JudeX  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 👋 - Python Full Stack and Big Data Engineering Enthusiast.
 
-### Currently a Junior Data Analyst at <a href="https://flutterwave.com">Flutterwave</a>
+### Currently - Junior Data Analyst at <a href="https://flutterwave.com">Flutterwave</a>
 
 [![Linkedin: judex](https://img.shields.io/badge/-Onyekaba_Nzubechukwu_Jude-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nzubechukwu-onyekaba/)](https://www.linkedin.com/in/nzubechukwu-onyekaba/)
 
