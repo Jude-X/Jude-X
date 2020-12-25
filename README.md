@@ -7,11 +7,23 @@
 **What makes me tick you ask? 🤗:**
 ```
 class Human:
-    def __init__(self, pronouns, code, current, email):
-        self.pronouns = pronouns
-        self.code = code
-        self.current = current
-        self.email = email
+    def __init__(self):
+        self.pronouns = None
+        self.code = None
+        self.current = None
+        self.email = None
+        
+    @property
+    def current(self):
+        return self.__current
+       
+    @current.setter
+    def current(self,curr):
+        if not curr:
+            self.__current = 'learning new tech stack'
+        else:
+            self.__current = curr
+            
         
     def __repr__(self):
         bio = f'''
@@ -24,17 +36,21 @@ class Human:
             - 💬 Ask me about anything!.
                '''
         return bio
-    
-JudeX = Human(['He','His'],['Python 🐍','Django','Flask','PostgreSQL','MySQL','Git'],'a reporting solution for my company','judexonyekaba@gmail.com')
+         
+JudeX = Human()
+JudeX.pronouns = ('He','His')
+JudeX.code = ('Python 🐍','Django','Flask','PostgreSQL','MySQL','Git')
+JudeX.current = ''
+JudeX.email = 'judexonyekaba@gmail.com'
 print(JudeX)
 
 Output:
     - 😄 Pronouns: He,His
     - 💻 Tech Stacks: Python 🐍,Django,Flask,PostgreSQL,MySQL,Git
-    - 🔭 I’m currently working on a reporting solution for my company
+    - 🔭 I’m currently working on learning new tech stack
     - 📫 How to reach me: judexonyekaba@gmail.com
     - 👯 I’m looking to collaborate on exciting engineering projects
     - 🤔 I’m looking for help with learning Big Data Tech Stacks
-    - 💬 Ask me about anything!.
+    - 💬 Ask me about anything!.           
 ```
 ---
