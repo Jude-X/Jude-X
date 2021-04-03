@@ -1,6 +1,6 @@
-## Hi, I'm JudeX  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 👋 - Python Full Stack and Big Data Engineering Enthusiast.
+## Hi, I'm JudeX  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 👋 - Backend and Big Data Engineering Enthusiast.
 
-### Currently - Commercial Junior Data Analyst at <a href="https://flutterwave.com">Flutterwave</a>
+### Currently - Backend Engineering Intern at <a href="https://flutterwave.com">Flutterwave</a>
 
 [![Linkedin: judex](https://img.shields.io/badge/-Onyekaba_Nzubechukwu_Jude-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nzubechukwu-onyekaba/)](https://www.linkedin.com/in/nzubechukwu-onyekaba/)
 
@@ -39,14 +39,14 @@ class Human:
          
 JudeX = Human()
 JudeX.pronouns = ('He','His')
-JudeX.code = ('Python 🐍','Django','Flask','PostgreSQL','MySQL','Git')
+JudeX.code = ('Python','Django','Flask','Javascript','NodeJS','PostgreSQL','MySQL','Git')
 JudeX.current = ''
 JudeX.email = 'judexonyekaba@gmail.com'
 print(JudeX)
 
 Output:
     - 😄 Pronouns: He,His
-    - 💻 Tech Stacks: Python 🐍,Django,Flask,PostgreSQL,MySQL,Git
+    - 💻 Tech Stacks: Python,Django,Flask,Javascript,NodeJS,PostgreSQL,MySQL,Git
     - 🔭 I’m currently working on learning new tech stack
     - 📫 How to reach me: judexonyekaba@gmail.com
     - 👯 I’m looking to collaborate on exciting engineering projects
