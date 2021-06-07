@@ -1,6 +1,6 @@
 ## Hi, I'm JudeX  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 👋 - Backend and Big Data Engineering Enthusiast.
 
-### Currently - Backend Engineering Intern at <a href="https://flutterwave.com">Flutterwave</a>
+### Currently - Entry Level Backend Engineer at <a href="https://flutterwave.com">Flutterwave</a>
 
 [![Linkedin: judex](https://img.shields.io/badge/-Onyekaba_Nzubechukwu_Jude-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nzubechukwu-onyekaba/)](https://www.linkedin.com/in/nzubechukwu-onyekaba/)
 
